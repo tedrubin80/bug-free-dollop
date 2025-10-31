@@ -15,7 +15,6 @@ A comprehensive gear calculator and item database for Fallen Sword players. This
 
 | File | Description |
 |------|-------------|
-| `fallensword_scraper_improved.py` | Python scraper to fetch latest item data |
 | `create_interactive_gear_calculator.py` | Generates the interactive calculator spreadsheets |
 | `fallensword_google_sheets_calculator.xlsx` | Ready-to-use Google Sheets calculator |
 | `fallensword_items.csv` | Raw CSV database of all items |
